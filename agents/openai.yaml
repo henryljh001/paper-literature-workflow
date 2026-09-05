@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文领域化文献工作流"
+  short_description: "按论文领域配置检索筛选规则，衔接证据核验、综合与数据方法选择"
+  default_prompt: "使用 $paper-literature-workflow，根据我的论文领域与现有文献资产配置检索和筛选规则，并明确本轮可以执行的范围。"

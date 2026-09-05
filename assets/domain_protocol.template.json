@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "protocol_id": null,
+  "version": "0.1",
+  "status": "DRAFT",
+  "paper_brief_path": null,
+  "field_requirements": [],
+  "requirements_mapping": [],
+  "source_plan": [],
+  "search_routes": [],
+  "eligibility": {
+    "inclusion": [],
+    "exclusion": [],
+    "hold": [],
+    "fulltext_triggers": [],
+    "background_uses": []
+  },
+  "study_type_appraisal": [],
+  "extraction_fields": [],
+  "comparison_criteria": [],
+  "validation": {
+    "sources_verified": false,
+    "platform_syntax_tested": false,
+    "seed_cases_tested": false,
+    "counterexamples_reviewed": false,
+    "validated_operations": [],
+    "evidence_paths": [],
+    "remaining_uncertainties": []
+  },
+  "supersedes": null,
+  "change_reason": null,
+  "affected_records": []
+}

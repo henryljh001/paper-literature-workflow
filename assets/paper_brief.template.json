@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "paper_id": null,
+  "title_or_topic": null,
+  "field": null,
+  "paper_type": null,
+  "research_objects": [],
+  "questions": [],
+  "requested_mode": "CONFIGURE",
+  "requested_operations": [],
+  "existing_assets": [],
+  "authority_sources": [],
+  "scope": {
+    "allowed_inputs": [],
+    "output_root": null,
+    "writer": null,
+    "authorization_basis": null,
+    "restricted_actions": [],
+    "unresolved_scope_items": []
+  }
+}
